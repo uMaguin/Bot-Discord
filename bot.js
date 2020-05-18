@@ -16,5 +16,4 @@ client.on("message", (msg) => {
     if (commands[args[0]]) commands[args[0]](client, msg);
   }
 });
-
 client.login("NzExMDIxNDgwOTEzMTQxODQx.Xr888Q.F0fiH6KJAzsQv2lo_s7-A79R2UY");

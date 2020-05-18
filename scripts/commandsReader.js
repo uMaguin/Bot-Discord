@@ -7,6 +7,5 @@ module.exports = (prefix) => {
   scripts.forEach((script) => {
     commands[prefix + script.split(".")[0]] = require("../" + dir + script);
   });
+  return commands;
 };
-
-
