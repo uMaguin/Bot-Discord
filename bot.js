@@ -19,7 +19,5 @@ client.on("message", (msg) => {
     else if (args[0].split(" ")[0] == config.prefix) unknowCommand(client, msg);
   }
 });
+
 client.login(config.token);
-
-
-//TESTANDO O TESTE
