@@ -1,3 +1,4 @@
+![Next Level Week](https://github.com/uMaguin/Bot-Discord/blob/master/1920x1080.jpg)
 <h1 align="center">Next Level Week</h1>
 <p align="center">Projeto <strong>Ecoleta</strong> desenvolvido durante a Next Level Week da <a href="https://rocketseat.com.br">Rocketseat</a> 🚀👩🏽‍🚀</p>
 <p align="center">
