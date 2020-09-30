@@ -7,7 +7,7 @@ Em breve
 ## 💻 Tecnologia utilizada
 
 <ul>
-  <li>CSS</li>
+  <li>JavaScript</li>
 </ul>
 
 ---
