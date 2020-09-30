@@ -1,29 +1,20 @@
 ## 📊 Sobre o projeto
 
-Uma aplicação muito simples que fornece números aleatórios.
+Em breve
 
 ---
 
-## 💻 Tecnologias utilizadas
+## 💻 Tecnologia utilizada
 
 <ul>
-  <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript</li>
 </ul>
 
 ---
 
 ## 🧭 Como rodar o projeto
 
-O projeto não necessita de nenhuma instalação.
-
-```bash
-# Clonar o repositório
-git clone https://github.com/uMaguin/RandomNumber
-```
-
-Para executá-la é muito simples, basta abrir o arquivo `index.html` em qualquer navegador.
+Em breve
 
 ---
 
